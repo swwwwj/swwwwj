@@ -2,3 +2,4 @@
 <img align="center" width="660" src="https://github-readme-stats.vercel.app/api?username=swwwwj&theme=dark&include_all_commits=true&show_icons=true&hide_border=true" />
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=swwwwj&theme=dark&border_radius=4.6&card_width=660" alt="GitHub Streak" /></a>
 <img width="660" src="https://github-readme-activity-graph.vercel.app/graph?username=swwwwj&theme=gotham&hide_border=true&area=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=swwwwj&theme=dark&hide_border=true&layout=compact&langs_count=22" />
