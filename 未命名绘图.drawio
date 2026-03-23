@@ -1,9 +1,57 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="29.6.4">
   <diagram name="第 1 页" id="HYQhrMsIINJs3eHV5gQ2">
-    <mxGraphModel>
+    <mxGraphModel dx="1605" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ENIRUGq0YBwzt8nq1XDO-3" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;" value="用户PC&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="220" x="660" y="360" as="geometry" />
+        </mxCell>
+        <mxCell id="ENIRUGq0YBwzt8nq1XDO-4" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;" value="应用服务器&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="270" width="200" x="990" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ENIRUGq0YBwzt8nq1XDO-6" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;" value="AI加扰节点" vertex="1">
+          <mxGeometry height="120" width="170" x="1020" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="ENIRUGq0YBwzt8nq1XDO-7" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;" value="数据库" vertex="1">
+          <mxGeometry height="120" width="170" x="1330" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ENIRUGq0YBwzt8nq1XDO-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Windows10/MacOS" vertex="1">
+          <mxGeometry height="60" width="110" x="705" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="ENIRUGq0YBwzt8nq1XDO-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;div&gt;VideoConferenceClient.exe&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="680" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="ENIRUGq0YBwzt8nq1XDO-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;div&gt;SystemDrivers&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="160" x="680" y="530" as="geometry" />
+        </mxCell>
+        <mxCell id="ENIRUGq0YBwzt8nq1XDO-11" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Linux Server&lt;div&gt;(java+python+Node.js)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="1010" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ENIRUGq0YBwzt8nq1XDO-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;div&gt;WebApplication.war&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="1010" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="ENIRUGq0YBwzt8nq1XDO-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;div&gt;&amp;nbsp;REST_API_Module&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="1010" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="ENIRUGq0YBwzt8nq1XDO-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;div&gt;SessionManager&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="1010" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ENIRUGq0YBwzt8nq1XDO-15" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;direction=south;" value="媒体服务器&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="270" width="200" x="1260" y="115" as="geometry" />
+        </mxCell>
+        <mxCell id="ENIRUGq0YBwzt8nq1XDO-16" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Linux Server&lt;div&gt;Docker&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="1280" y="175" as="geometry" />
+        </mxCell>
+        <mxCell id="ENIRUGq0YBwzt8nq1XDO-17" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;div&gt;MediaStreamService.so&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="1280" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="ENIRUGq0YBwzt8nq1XDO-18" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;div&gt;&amp;nbsp;WebRTC_Service&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="1280" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="ENIRUGq0YBwzt8nq1XDO-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&amp;lt;&amp;lt;artifact&amp;gt;&amp;gt;&lt;div&gt;StreamManager&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="140" x="1280" y="325" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
